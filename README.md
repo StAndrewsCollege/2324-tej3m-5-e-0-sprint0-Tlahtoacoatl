@@ -43,7 +43,7 @@ My plan was to split the paper 8.5x11" into 22x 8.5x0.5" strips and then stack t
 
 *You will create quick sketches or descriptions of your planned design*
 
-![[Pasted image 20240125145940.png]]
+![](Pasted image 20240125145940.png)
 
 ### Prototyping
 
